@@ -1,3 +1,3 @@
-# demo-reset
+# Demo-reset
 
 This is a demo
